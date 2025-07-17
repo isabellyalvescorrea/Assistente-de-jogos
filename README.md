@@ -27,7 +27,7 @@ em tempo real
 - respostas diretas e claras
 
 (É necessário fornecer uma chave de API key do Gemini para fazer a pergunta)
-você pode gerar sua chave rapidamente no https://ai.google.dev/
+você pode gerar sua chave rapidamente no https://ai.google.dev/gemini-api/docs?hl=pt-br
 
 Esse projeto foi desenvolvido juntamente com o evento NLW Agents,
 promovido pela instituição Rocketseat, para fins de estudo e prática.
