@@ -5,7 +5,7 @@ para melhorar em suas jogadas, tirar dúvidas e trazer informações de acordo c
 jogo selecionado.
 
 clique aqui para ver e textar 👉
-https://isabellyalvescorrea.github.io/Assistente-de-jogos-com-IA/
+https://isabellyalvescorrea.github.io/Assistente-de-jogos/
 
 O projeto utiliza a API do Gemini, modelo de linguagem da Google,
 para gerar respostas em tempo real com base na pergunta.
