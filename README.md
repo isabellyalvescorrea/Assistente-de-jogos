@@ -1,6 +1,9 @@
-# Assistente de jogos/meta 🎮
 
-![imagem do projeto](./assets/banner.png)
+<h1 align="center">Assistente de jogos/meta 🎮</h1>
+
+<p align="center">
+<img src="./assets/banner.png" alt="Imagem do projeto" width="600"/>
+</p>
 
 esse é um assistente inteligente que ajuda jogadores com dicas 
 para melhorar em suas jogadas, tirar dúvidas e trazer informações de acordo com o
@@ -19,6 +22,7 @@ para gerar respostas em tempo real com base na pergunta.
 - JavaScript
 - API Gemini
 - Vs code
+    
 
 # Funcionalidades
 
@@ -28,6 +32,13 @@ para gerar respostas em tempo real com base na pergunta.
 em tempo real
 - respostas diretas e claras
 
+# Estrutura
+
+- index.html = Página principal
+- sript.js = Interação e conexão com API
+- style.css = Estilização da página principal
+- assets = imagens utilizadas
+  
 (É necessário fornecer uma chave de API key do Gemini para fazer a pergunta)
 você pode gerar sua chave rapidamente no https://ai.google.dev/gemini-api/docs?hl=pt-br
 
