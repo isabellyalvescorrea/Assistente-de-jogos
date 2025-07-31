@@ -1,5 +1,7 @@
 # Assistente de jogos/meta 🎮
 
+![imagem do projeto](./assets/Captura de Tela (1).png)
+
 esse é um assistente inteligente que ajuda jogadores com dicas 
 para melhorar em suas jogadas, tirar dúvidas e trazer informações de acordo com o
 jogo selecionado.
